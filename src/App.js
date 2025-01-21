@@ -27,9 +27,9 @@ const App = () => (
         </div>
       </Layout>
       <div className="footer">
-        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2021
+        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2021 |
           <Link to="https://www.youtube.com/@shivanshvasu/videos">
-            CrytoAnalyser by Shivansh Vasu.
+            | CrytoAnalyser by Shivansh Vasu.
           </Link> <br />
           All Rights Reserved.
         </Typography.Title>

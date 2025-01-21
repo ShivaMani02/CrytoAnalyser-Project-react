@@ -46,7 +46,7 @@ Make sure you have the following installed:
 0. Copy .env.example to .env and paste your credentials.
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CryptoAnalyser.git
+   git clone https://github.com/ShivaMani02/CrytoAnalyser-Project-react
    ```
 
 2. Navigate to the project directory:
